@@ -1,0 +1,30 @@
+{
+"company": [
+
+    {
+        "id":1,
+        "companyname":"LinkedIn"
+    },
+    
+    {
+        "id":2,
+        "companyname":"LinkedIn"
+    },
+    
+    {
+        "id":3,
+        "companyname":"LinkedIn"
+    },
+    
+    {
+        "id":4,
+        "companyname":"LinkedIn"
+    },
+    
+    {
+        "id":5,
+        "companyname":"LinkedIn"
+    }
+]
+ 
+}
